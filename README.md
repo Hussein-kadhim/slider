@@ -1,4 +1,4 @@
 # slider
 
-### This is a random choice picker app build with HTML CSS JavaScript
+### This is a slider app build with HTML CSS JavaScript
 
